@@ -1,0 +1,16 @@
+{
+  "name": "car",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shouldBuyCar.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
